@@ -118,3 +118,15 @@
     width: 20vh;
     justify-content: space-between;
 }
+.reg_page{
+    height: 100vh;
+    background-color:#D92222;
+    display: flex;
+}
+.registration_field{
+    background-color:white;
+    border-radius:18px;
+    height: 70vh;
+    width: 50vh;
+    margin: auto;
+}

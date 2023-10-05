@@ -84,7 +84,7 @@
                 <div class="fast_links">
                     <ul class="main_list">
                         <li class="list_element"><h5>Личный кабинет</h5></li>
-                        <li class="list_element"><h5>Регистрация</h5></li>
+                        <li class="list_element"><a href="./registration.php" ><h5>Регистрация</h5></a></li>
                         <li class="list_element"><h5>Помощь</h5></li>
                         <li class="list_element"><h5>Подать жалобу</h5></li>
                     
