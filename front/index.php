@@ -46,11 +46,57 @@
             <div class="information">
                 <h3 class="helper">Есть так много видов жалоб, как в них разобраться?</h3>
                 <div class="information_box">
-                    <div class="information_links1"></div>
-                    <div class="information_links2"></div>
+                    <div class="information_links1">
+                        <div class="information_first">
+                            <div class="exstra_div">
+                                <img src="img/graduation-cap.png">
+                                <h4 class="guide">Вот что нужно сделать</h4>
+                            </div>
+                            <img src="img/give-way.png">
+                        </div>
+                        <div class="information_first">
+                            <div class="exstra_div">
+                                <img src="img/policeman-male.png">
+                                <h4  class="guide">Вот что нужно сделать</h4>
+                            </div>
+                            <img src="img/give-way.png">
+                        </div>
+                    </div>
+                    <div class="information_links1">
+                       <div class="information_first">
+                        <div class="exstra_div">
+                                <img src="img/scales.png">
+                                <h4  class="guide">Вот что нужно сделать</h4>
+                            </div>
+                            <img src="img/give-way.png">
+                       </div>
+                       <div class="information_first">
+                        <div class="exstra_div">
+                                <img src="img/recycle-sign.png">
+                                <h4  class="guide">Вот что нужно сделать</h4>
+                            </div>
+                            <img src="img/give-way.png">
+                       </div>
+                    </div>
                 </div>
             </div>
-            <div class="footer"></div>
+            <div class="footer">
+                <div class="fast_links">
+                    <ul class="main_list">
+                        <li class="list_element"><h5>Личный кабинет</h5></li>
+                        <li class="list_element"><h5>Регистрация</h5></li>
+                        <li class="list_element"><h5>Помощь</h5></li>
+                        <li class="list_element"><h5>Подать жалобу</h5></li>
+                    
+                    </ul>
+                </div>
+                <div class="social">
+                    <div class="img_group">
+                        <img src="img/whatsapp.png">
+                        <img src="img/telegram-app.png">
+                    </div>
+                </div>
+            </div>
         </div>
 
 
