@@ -6,6 +6,9 @@
 #list_main{
     list-style: none;
 }
+#sticky{
+    background-color:white;
+}
 .registration_link{
     background-color: white;
     height: 50px;
@@ -62,13 +65,9 @@
 }
 #learn_more{
     width: 150px;
-
 }
-.main_information{
+.information{
     background-color:#FFCAC7;
-    height: 50vh;
     opacity: 0.2;
-}
-#sticky{
-    background-color:white;
+    padding-top:20px;
 }

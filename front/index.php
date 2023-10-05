@@ -43,7 +43,13 @@
                 <button type="button" id='learn_more' class="btn btn-outline-light">Узнать больше</button>
 
             </div>
-            <div class="main_information"></div>
+            <div class="information">
+                <h3 class="helper">Есть так много видов жалоб, как в них разобраться?</h3>
+                <div class="information_box">
+                    <div class="information_links1"></div>
+                    <div class="information_links2"></div>
+                </div>
+            </div>
             <div class="footer"></div>
         </div>
 
