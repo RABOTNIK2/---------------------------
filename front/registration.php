@@ -10,7 +10,11 @@
   <body>
     <div class="reg_page">
       <div class="registration_field">
-        
+        <div class="label">
+          <img src="img/storytelling.png" alt="Logo" width="90" height="90" class="d-inline-block align-text-center"><span class="union_center">Единый центр</span> жалоб</a>
+        </div>
+        <div class="fields"></div>
+        <div class="confirm"></div>
       </div>
     </div>
     

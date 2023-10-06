@@ -46,6 +46,7 @@
 .union_center{
     color: #D92222;
     margin-left:10px;
+    text-align: center;
 
 }
 #hide{
@@ -129,4 +130,12 @@
     height: 70vh;
     width: 50vh;
     margin: auto;
+    display: flex;
+}
+.formated{
+    display: flex;
+    background-color:black;
+}
+.label{
+    display: flex;
 }

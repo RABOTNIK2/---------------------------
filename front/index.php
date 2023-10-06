@@ -28,8 +28,14 @@
                         </ul>
                         <ul class="d-flex mb-2 mb-lg-0" id="list_main">
                             <li class="nav-item">
-                                <button class="registration_link">Регистрация</button>
-                                <button class="complaint_link">Подать жалобу</button>
+                                <div class="formated">
+                                   <form action="./registration.php">
+                                       <button class="registration_link" type="submit">Регистрация</button>
+                                   </form>
+                                   <form action="./registration.php">
+                                       <button class="complaint_link">Подать жалобу</button>
+                                   </form>
+                                </div>
                             </li>
                         </ul>
                     </div>
